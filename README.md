@@ -4,4 +4,6 @@ Regularization is a technique used for tuning the function by adding an addition
 
 
 * Examples of regularization
+
+
 Examples of regularization, included; K-means: Restricting the segments for avoiding redundant groups. Neural networks: Confining the complexity (weights) of a model. Random Forest: Reducing the depth of tree and branches (new features)
